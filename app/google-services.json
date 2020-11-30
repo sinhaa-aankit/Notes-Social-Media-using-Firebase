@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801122735235",
+    "firebase_url": "https://jwc-notes-007.firebaseio.com",
+    "project_id": "jwc-notes-007",
+    "storage_bucket": "jwc-notes-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801122735235:android:331b85f83f0d66c00537b6",
+        "android_client_info": {
+          "package_name": "com.example.jwcnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801122735235-oa95ptlfj27akmeg6qkv9dr0t5mk7n74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5c6Q7B6DYiM3yjZvTbun5YiR8Jmp3WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801122735235-oa95ptlfj27akmeg6qkv9dr0t5mk7n74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
